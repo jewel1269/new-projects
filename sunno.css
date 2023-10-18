@@ -1,0 +1,50 @@
+#habib{
+font-size: 38px; 
+text-align: center; 
+color: rgb(1, 199, 50);
+text-decoration: solid;  
+}
+h3{
+    font-size: 30px;
+    text-align: left;
+    color: blue;
+    text-decoration: solid;
+
+}
+li{
+    font-size: 24px;
+    text-decoration: solid;
+
+}
+p{
+    text-align: left;
+    color: forestgreen;
+}
+#jewel{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: dotted;
+    color: indigo;
+}
+img{
+    width: 350px;
+    height: 300px;
+    padding: 60px;
+}
+#tahsan{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: solid;
+    color: black;
+}
+#sunno{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    text-decoration: dotted;
+}
+#tumi{
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
